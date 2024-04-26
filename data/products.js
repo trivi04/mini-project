@@ -14,11 +14,7 @@ export const products = [
     id: "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     image: "images/delicacies/lemon tea.jpg",
     name: "lemon tea",
-    rating: {
-      stars: 4.5,
-      count: 87
-    },
-    priceCents: 1090,
+    priceCents: 6000,
   },
   {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
@@ -28,7 +24,7 @@ export const products = [
       stars: 4,
       count: 127
     },
-    priceCents: 2095,
+    priceCents: 5000,
   },
   {
     id: "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
@@ -49,7 +45,7 @@ export const products = [
       stars: 5,
       count: 2197
     },
-    priceCents: 1899,
+    priceCents: 8500,
     keywords: [
       "toaster",
       "kitchen",
@@ -62,28 +58,28 @@ export const products = [
     image: "images/delicacies/dalgona cofee.jpg",
     name: "dalgona Coffee",
    
-    priceCents: 1374,
+    priceCents: 9000,
 
   },
   {
     id: "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
     image: "images/delicacies/iced tea.avif",
     name: "Iced Tea",
-    priceCents: 1250,
+    priceCents: 6000,
   },
   {
     id: "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
     image: "images/delicacies/tea.jpg",
     name: "Tea",
   
-    priceCents: 2640,
+    priceCents: 4000,
 
   },
   {
     id: "8b5a2ee1-6055-422a-a666-b34ba28b76d4",
     image: "images/delicacies/mocha coffee.jpg",
     name: "Mocha Coffee",
-    priceCents: 1599,
+    priceCents: 8000,
   },
 ];
 
