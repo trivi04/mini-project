@@ -100,3 +100,7 @@ function goTo() {
     window.location.href="login.html";
   }
 }
+
+function showsignup() {
+  alert("Sign up successfull. Please Login.")
+}
