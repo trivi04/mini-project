@@ -1,7 +1,6 @@
 import {cart,addToCart,calculateCartQuantity} from '../data/cart.js';
 import {products,products1} from '../data/products.js'
 import { formatCurrency } from './utils/money.js';
-//module only works with live server
 
 function generateProductHTML(products) {
     let productsHTML = '';
